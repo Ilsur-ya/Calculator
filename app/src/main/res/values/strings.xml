@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="buttonForPlus">Сложить</string>
+    <string name="buttonForMinus">Вычесть</string>
+    <string name="buttonForProizv">Умножить</string>
+    <string name="buttonForDelenie">Делить</string>
+
+    <string name="text_calculator">Калькулятор</string>
+    <string name="result">Результат</string>
+</resources>
