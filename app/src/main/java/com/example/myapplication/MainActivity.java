@@ -63,6 +63,7 @@ public class MainActivity extends AppCompatActivity {
                 float res = num1 / num2;
                 resultOfTextViews.setText(String.valueOf(res));
 
+
             }
         });
 
