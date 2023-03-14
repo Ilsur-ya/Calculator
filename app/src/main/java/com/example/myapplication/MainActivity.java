@@ -62,6 +62,7 @@ public class MainActivity extends AppCompatActivity {
                 float num2 = Float.parseFloat(NumberField2.getText().toString());
                 float res = num1 / num2;
                 resultOfTextViews.setText(String.valueOf(res));
+                resultOfTextViews.setText(String.valueOf(res));
             }
         });
 
